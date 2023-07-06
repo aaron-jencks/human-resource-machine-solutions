@@ -54,8 +54,4 @@ j:
     SUB      3
     JUMPZ    j
     COPYFROM 4
-    OUTBOX  
-k:
-    INBOX   
-    INBOX   
-    JUMP     k
+    OUTBOX
